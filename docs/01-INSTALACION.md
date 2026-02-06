@@ -135,7 +135,7 @@ Completa cada checkpoint y verifica que funcionó:
 winget
 ```
 
-- [ ] El comando winget esta instalado y lo puedo ejecutar desde la linea de comandos
+- [y] El comando winget esta instalado y lo puedo ejecutar desde la linea de comandos
 
 
 ### Checkpoint 2: Git Instalado ✅
