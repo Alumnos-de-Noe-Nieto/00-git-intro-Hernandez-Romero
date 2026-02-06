@@ -198,7 +198,7 @@ Deberías de poder ver de nuevo este mensaje:
 Hi TuUsuario! You've successfully authenticated, but GitHub does not provide shell access.
 ```
 
-- [ ] Activa esta casilla si viste el mensaje de confirmación de que tu conexión a GitHub se puede completar.
+- [x] Activa esta casilla si viste el mensaje de confirmación de que tu conexión a GitHub se puede completar.
 
 
 ## 💾 Guarda tu Progreso en Git
