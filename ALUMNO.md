@@ -30,3 +30,10 @@ Lo más importante que aprendí de Git es...
 No es una herramienta tan complicada una vez que conoces lo básico y explores un poco mas, realmente es un buen sistema que te permite trabajar mejor solo o en equipo, me parece muy interesante poder ver donde se realizan los cambias y los mensajes que puedes dejar para saber que cambios específicos hay.
 
 **Fecha:** 27/05/2026
+
+---
+## Repositorio de ejercicios
+
+**Nombre del repositorio en GitHub:** Mi-Proyecto-Practica
+
+**Enlace público al repositorio:** https://github.com/Hernandez-Romero/Mi-Proyecto-Practica
